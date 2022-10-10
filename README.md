@@ -1,5 +1,5 @@
-# Rock5B_Naive_Pwm_Fan
-For official fan from allnet
+# Rock5B Naive Pwm Fan
+For official fan from allnet installed on Rock Pi 5 Model B
 
 ## How to use
 1. Clone or download this repo
