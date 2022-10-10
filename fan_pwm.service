@@ -1,0 +1,11 @@
+[Unit]
+Description=PWM-Fan-Simple-Control
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/fan_pwm
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
