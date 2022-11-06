@@ -1,5 +1,6 @@
 # Rock5B Naive Pwm Fan
-For official fan from allnet installed on Rock Pi 5 Model B
+For official cooling fan from allnet or the same fan from Li Xue Fan installed on Rock Pi 5 Model B.
+Modify the pwm values/logic in file `fan_pwm` to build your own PWM curve or fit other fan.
 
 ## How to use
 1. Clone or download this repo
